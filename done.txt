@@ -1,0 +1,78 @@
+-------------------------------
+> Axis_angle.h
+A-Field DONE
+A-Ide DONE
+A-FromPoint DONE
+A-Inv a DONE
+A-Inv b DONE
+M2A DONE
+E2A DONE
+Q2A DONE
+Print DONE
+
+-------------------------------
+> Euler.h
+E-Fields DONE
+E-Ide DONE
+E-Constr DONE
+Q2E DONE
+M2E DONE
+A2E DONE
+Print DONE
+
+-------------------------------
+> Matrix.h
+M-Fields: DONE
+M-Ide: DONE
+M-Constr: DONE
+M-App: DONE
+M-Ax a: DONE
+M-Ax b(): DONE
+M-Ax c(): DONE
+M-Inv a DONE
+M-Inv b DONE
+Q2M DONE
+E2M DONE
+A2M DONE
+M-isR DONE
+M-Rx DONE
+M-Ry DONE
+M-Rz DONE
+Print: DONE
+
+-------------------------------
+> Point3.h
+Print: DONE
+
+-------------------------------
+> Quaternions.h
+Q-Fields: DONE
+Q-Constr DONE
+Q-Ide: DONE
+Q-FromPoint DONE
+Q-Ax a DONE rivedi
+Q-Ax b DONE rivedi
+Q-Ax c DONE rivedi
+Q-Inv a DONE
+Q-Inv b DONE
+Q-Conj a DONE
+Q-Conj b DONE
+M2Q DONE
+E2Q DONE
+A2Q DONE
+Print DONE
+
+-------------------------------
+> Transform.h
+T-invert DONE
+T-place DONE
+Print DONE
+
+-------------------------------
+> Vector3.h
+Print DONE
+
+-------------------------------
+> Versor.h
+Print DONE
+
